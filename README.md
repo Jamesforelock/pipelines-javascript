@@ -1,5 +1,4 @@
-<!-- ![Azure Pipelines succeeded](./status.png) -->
-<img src="./status.png" width="300px"></img>
+![Azure Pipelines succeeded](./status.png)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
